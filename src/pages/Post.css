@@ -1,0 +1,25 @@
+h1 {
+    text-decoration: none;
+    color: #e16245;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: 1px 1px 3px black;
+}
+
+.author-text {
+    text-decoration: none;
+    color: dimgray;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.by-text {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.card-text {
+
+}
